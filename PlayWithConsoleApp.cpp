@@ -3,7 +3,7 @@
 #include <iostream>
 using namespace cv;
 using namespace std;
-	int main(int argc, char* argv[])
+	int main()
 {
     VideoCapture cap(1); // open the video camera no. 0
 
